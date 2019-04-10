@@ -1,6 +1,4 @@
 
-![Hyperledger Sawtooth](images/sawtooth_logo_light_blue-small.png)
-
 # Sawtooth Supply Chain
 
 This is a distributed application to help you trace the provenance and other
@@ -13,16 +11,19 @@ please see its
 
 ## Contents
 
-- [Components](#components)
-- [Usage](#usage)
-  - [Start Up](#start-up)
-  - [Running Scripts in the Shell](#running-scripts-in-the-shell)
-  - [Configuring API Keys and Secrets](#configuring-api-keys-and-secrets)
-- [Development](#development)
-  - [Restarting Components](#restarting-components)
-  - [Manually Building Generated Files](#manually-building-generated-files)
-- [Documentation](#documentation)
-- [License](#license)
+- [Sawtooth Supply Chain](#sawtooth-supply-chain)
+  - [Contents](#contents)
+  - [Components](#components)
+  - [Usage](#usage)
+    - [Start Up](#start-up)
+    - [Running Scripts in the Shell](#running-scripts-in-the-shell)
+    - [Configuring API Keys and Secrets](#configuring-api-keys-and-secrets)
+  - [Development](#development)
+    - [Restarting Components](#restarting-components)
+    - [Manually Building Generated Files](#manually-building-generated-files)
+      - [Building Protobuf Files](#building-protobuf-files)
+  - [Documentation](#documentation)
+  - [License](#license)
 
 ## Components
 
